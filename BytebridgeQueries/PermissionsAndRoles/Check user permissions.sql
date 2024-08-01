@@ -1,0 +1,1 @@
+SELECT * from public.auth_permission WHERE content_type_id  = id;

@@ -1,0 +1,1 @@
+SELECT * FROM storage.s3_multipart_uploads WHERE bucket_id = id;
